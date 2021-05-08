@@ -1,0 +1,1 @@
+(()=>{var o={185:o=>{o.exports=function(o,r){return o+r}}},r={};function t(e){var n=r[e];if(void 0!==n)return n.exports;var s=r[e]={exports:{}};return o[e](s,s.exports,t),s.exports}(()=>{"use strict";const o=t(185);console.log(200),console.log("tag",o(10,20))})()})();
