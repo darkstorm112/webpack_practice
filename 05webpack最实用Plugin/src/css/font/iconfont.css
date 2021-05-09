@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 1406465 */
+  src: url('iconfont.woff2?t=1620561834453') format('woff2'),
+       url('iconfont.woff?t=1620561834453') format('woff'),
+       url('iconfont.ttf?t=1620561834453') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-lishi:before {
+  content: "\e602";
+}
+
+.icon-shanchu:before {
+  content: "\e603";
+}
+
+.icon-atomium-belgium-svgrepo-com:before {
+  content: "\e70e";
+}
+
+.icon-beach-svgrepo-com1:before {
+  content: "\e70f";
+}
+
+.icon-canyon-nature-svgrepo-com:before {
+  content: "\e714";
+}
+
+.icon-map-stopping:before {
+  content: "\e6c4";
+}
+
